@@ -3,9 +3,10 @@
 # expo
 .expo/
 
-android/.gradle
-android/app
-android/build
+# build trash
+/android/.gradle/*
+/android/app/build/*
+/android/build/*
 
 # dependencies
 /node_modules
